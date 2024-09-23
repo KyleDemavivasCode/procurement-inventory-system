@@ -39,6 +39,16 @@
                       <i class="mdi mdi-briefcase-account-outline"></i>
                       <span class="nav-text">Business Dashboard</span>
                     </a>
+
+                    <a class="sidenav-item-link" href="index.html">
+                      <i class="mdi mdi-briefcase-account-outline"></i>
+                      <span class="nav-text">test side bar nav 1</span>
+                    </a>
+
+                    <a class="sidenav-item-link" href="index.html">
+                      <i class="mdi mdi-briefcase-account-outline"></i>
+                      <span class="nav-text">test side bar nav 2</span>
+                    </a>
                   </li>         
               </ul>
 
